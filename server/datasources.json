@@ -1,12 +1,8 @@
 {
   "mongoDb": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
+    "url": "mongodb+srv://eemd:Boole_999520@devcluster-t97xs.mongodb.net/test?retryWrites=true&w=majority",
     "database": "rootstack_test",
-    "password": "",
     "name": "mongoDb",
-    "user": "",
     "useNewUrlParser": true,
     "connector": "mongodb"
   }
